@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn[standard]
+sqlalchemy
+websockets
+paho-mqtt
+pyjwt
+passlib[bcrypt]
